@@ -1,0 +1,27 @@
+# dependencies
+node_modules
+node_modules/
+.nuxt/
+package-lock.json
+.serverless/
+.serverless
+# logs
+npm-debug.log
+
+# Nuxt build
+.nuxt
+.vscode/settings.json
+.vscode
+.vscode/*
+# Nuxt generate
+dist
+
+.idea
+#.env
+Makefile
+script.sh
+serverless.yml
+dist
+yarn-error.log
+yarn.lock
+.DS_Store
